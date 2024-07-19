@@ -1,2 +1,2 @@
-This is read me file vvvvv
-welcome to P1 practical class 
+This is read me file
+welcome to P6 practical class 
